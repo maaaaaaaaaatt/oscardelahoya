@@ -10,16 +10,24 @@ theme = 'smol'
 
 # Header
 [menu]
+    [[menu.main]]
+        identifier = "info"
+        name = "Info"
+        url = "/info/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 2
+
   [[menu.main]]
         identifier = "tags"
         name = "Tags"
         url = "/tags/"
         weight = 3
 
-    [[menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/posts/"
-        weight = 1
+
 
 # Footer
