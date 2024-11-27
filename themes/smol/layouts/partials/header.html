@@ -1,6 +1,6 @@
 <header>
 	{{ strings.Repeat ( .Site.Title | len | add 80 ) "/" }}<br>
-	//// <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> ////<br>
+	<div class="site_title" style="text-align: center;"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></div><br>
 	{{ strings.Repeat ( .Site.Title | len | add 80 ) "/" }}
 	<div style="float: right;">{{ .Site.Params.subtitle }}</div><br>
 	<p>
