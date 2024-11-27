@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'oscardelahoya.net'
-theme = "smol"
+theme = 'smol'
 
 # Parameters
 [params]
