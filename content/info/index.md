@@ -6,4 +6,4 @@ draft = false
 
 
 SINGLES HITTER
-![alt](images/battingpractice.gif)
+![alt](battingpractice.gif)
