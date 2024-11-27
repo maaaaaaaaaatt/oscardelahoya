@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Default on oscardelahoya.net</title>
-    <link>http://localhost:50346/tags/default/</link>
+    <link>http://localhost:1313/tags/default/</link>
     <description>Recent content in Default on oscardelahoya.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2024 21:16:17 -0500</lastBuildDate>
-    <atom:link href="http://localhost:50346/tags/default/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/default/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:50346/posts/hello-world/2024-11-26-hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/2024-11-26-hello-world/</link>
       <pubDate>Tue, 26 Nov 2024 21:16:17 -0500</pubDate>
-      <guid>http://localhost:50346/posts/hello-world/2024-11-26-hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/2024-11-26-hello-world/</guid>
       <description>Lorem ipsum odor amet, consectetuer adipiscing elit. Ut molestie elementum est lectus amet euismod fringilla platea. Ullamcorper et odio mus platea neque. Sapien elementum purus rhoncus taciti; tempor pretium. Ac molestie felis urna interdum lacus montes condimentum non laoreet. Posuere a dui sociosqu elementum ut. Cubilia phasellus convallis metus senectus adipiscing a! Gravida erat augue sed fames eros viverra nec nam.&#xA;Lacinia cras blandit rhoncus eros libero elementum. Efficitur est tempor diam eu ullamcorper.</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:50346/posts/2024-11-26-my-second-post/</link>
+      <link>http://localhost:1313/posts/2024-11-26-my-second-post/</link>
       <pubDate>Tue, 26 Nov 2024 18:49:11 -0500</pubDate>
-      <guid>http://localhost:50346/posts/2024-11-26-my-second-post/</guid>
+      <guid>http://localhost:1313/posts/2024-11-26-my-second-post/</guid>
       <description>Lorem ipsum odor amet, consectetuer adipiscing elit. Ut molestie elementum est lectus amet euismod fringilla platea. Ullamcorper et odio mus platea neque. Sapien elementum purus rhoncus taciti; tempor pretium. Ac molestie felis urna interdum lacus montes condimentum non laoreet. Posuere a dui sociosqu elementum ut. Cubilia phasellus convallis metus senectus adipiscing a! Gravida erat augue sed fames eros viverra nec nam.&#xA;Lacinia cras blandit rhoncus eros libero elementum. Efficitur est tempor diam eu ullamcorper.</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:50346/posts/2024-11-26-my-first-post/</link>
+      <link>http://localhost:1313/posts/2024-11-26-my-first-post/</link>
       <pubDate>Tue, 26 Nov 2024 18:35:02 -0500</pubDate>
-      <guid>http://localhost:50346/posts/2024-11-26-my-first-post/</guid>
+      <guid>http://localhost:1313/posts/2024-11-26-my-first-post/</guid>
       <description>Lorem ipsum odor amet, consectetuer adipiscing elit. Eleifend sodales litora turpis feugiat; malesuada porta sed venenatis. Elementum ipsum hendrerit torquent, congue suspendisse iaculis. Facilisis massa pretium; urna ultrices suspendisse placerat consectetur. Quis auctor non et facilisis montes sapien. Odio penatibus malesuada nullam posuere sociosqu sociosqu vitae nostra amet. Sociosqu habitant facilisis mauris nulla aptent.&#xA;Tellus sociosqu convallis suscipit mollis, class class. Varius lacus class orci lacus varius finibus sodales? Volutpat at dui hac ad nam ex hac viverra.</description>
     </item>
   </channel>
