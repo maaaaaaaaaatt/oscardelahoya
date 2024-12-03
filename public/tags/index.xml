@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on oscardelahoya.net</title>
-    <link>http://localhost:57967/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on oscardelahoya.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 10:09:46 -0600</lastBuildDate>
-    <atom:link href="http://localhost:57967/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 15:15:40 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/tags/design/</link>
+      <pubDate>Tue, 03 Dec 2024 15:15:40 -0500</pubDate>
+      <guid>http://localhost:1313/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/tags/tools/</link>
+      <pubDate>Tue, 03 Dec 2024 15:15:40 -0500</pubDate>
+      <guid>http://localhost:1313/tags/tools/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Default</title>
-      <link>http://localhost:57967/tags/default/</link>
+      <link>http://localhost:1313/tags/default/</link>
       <pubDate>Thu, 28 Nov 2024 10:09:46 -0600</pubDate>
-      <guid>http://localhost:57967/tags/default/</guid>
+      <guid>http://localhost:1313/tags/default/</guid>
       <description></description>
     </item>
   </channel>

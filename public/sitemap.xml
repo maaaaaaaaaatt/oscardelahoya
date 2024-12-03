@@ -2,37 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:57967/tags/default/</loc>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2024-12-03T15:15:40-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-12-03-one-weird-trick/</loc>
+    <lastmod>2024-12-03T15:15:40-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-03T15:15:40-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-03T15:15:40-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-03T15:15:40-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tools/</loc>
+    <lastmod>2024-12-03T15:15:40-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/default/</loc>
     <lastmod>2024-11-28T10:09:46-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:57967/posts/2024-11-28-get-the-jelly-out-your-spine/</loc>
+    <loc>http://localhost:1313/posts/2024-11-28-get-the-jelly-out-your-spine/</loc>
     <lastmod>2024-11-28T10:09:46-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:57967/</loc>
-    <lastmod>2024-11-28T10:09:46-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57967/posts/</loc>
-    <lastmod>2024-11-28T10:09:46-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57967/tags/</loc>
-    <lastmod>2024-11-28T10:09:46-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57967/info/</loc>
+    <loc>http://localhost:1313/info/</loc>
     <lastmod>2024-11-26T22:54:17-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57967/posts/2024-11-26-hello-world/</loc>
+    <loc>http://localhost:1313/posts/2024-11-26-hello-world/</loc>
     <lastmod>2024-11-26T21:16:17-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57967/categories/</loc>
-    <lastmod>2024-11-26T18:49:11-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57967/categories/default/</loc>
-    <lastmod>2024-11-26T18:49:11-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57967/posts/2024-11-26-my-second-post/</loc>
-    <lastmod>2024-11-26T18:49:11-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57967/posts/2024-11-26-my-first-post/</loc>
-    <lastmod>2024-11-26T18:35:02-05:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
