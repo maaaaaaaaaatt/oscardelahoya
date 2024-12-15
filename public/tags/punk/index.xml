@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on oscardelahoya.net</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on oscardelahoya.net</description>
+    <title>Punk on oscardelahoya.net</title>
+    <link>http://localhost:1313/tags/punk/</link>
+    <description>Recent content in Punk on oscardelahoya.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Dec 2024 22:43:25 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/punk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I&#39;ll Win that Motley Crue Mirror if it fucking kills me</title>
       <link>http://localhost:1313/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</link>
       <pubDate>Sat, 14 Dec 2024 22:43:25 -0500</pubDate>
       <guid>http://localhost:1313/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</guid>
       <description>My Spotify Wrapped this week was entirely expected—the number one song I listened to, without question, was Carnival by Bikini Kill.&#xA;It&amp;rsquo;s probably foolish or shortsighted to say it&amp;rsquo;s my favorite song, period, because frankly having a favorite song is a fun thought experiment but ultimately an empty statement. I have plenty of favorite songs, tied to specific memories, individuals, psychic moments, deep emotions, even tiny flashes of clarity and inspiration.</description>
-    </item>
-    <item>
-      <title>Learn this one WEIRD trick for stunning results</title>
-      <link>http://localhost:1313/posts/2024-12-03-one-weird-trick/</link>
-      <pubDate>Tue, 03 Dec 2024 15:15:40 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024-12-03-one-weird-trick/</guid>
-      <description>Much of the mental bandwith in my studio lately (when it&amp;rsquo;s not getting clogged by the force of will required to land the plane of another semester) has been dedicated to thinking through why so much contemporary design looks&amp;hellip;kinda the same? I&amp;rsquo;ll concede that this might simply be a me problem — algorithms exist to feed me slop I&amp;rsquo;ve volunteered to like, and even in the theoretically more open confines of are.</description>
     </item>
   </channel>
 </rss>
