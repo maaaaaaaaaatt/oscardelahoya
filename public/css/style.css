@@ -15,7 +15,7 @@ body {
     max-width: 800px;
     margin: 40px auto;
     padding: 0 10px;
-    font-size: 18px/2 "IBM Plex Mono", monospace;
+    font: 18px/2 "IBM Plex Mono", monospace;
     color: var(--fontcolor);
     background: var(--bgcolor)
 }

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studio Practice on oscardelahoya.net</title>
-    <link>https://oscardelahoya.net/tags/studio-practice/</link>
+    <link>http://localhost:1313/tags/studio-practice/</link>
     <description>Recent content in Studio Practice on oscardelahoya.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Mar 2025 22:07:10 -0400</lastBuildDate>
-    <atom:link href="https://oscardelahoya.net/tags/studio-practice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/studio-practice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hunter Gatherer Mode</title>
-      <link>https://oscardelahoya.net/posts/2025-03-21-hunter-gatherer-mode/</link>
+      <link>http://localhost:1313/posts/2025-03-21-hunter-gatherer-mode/</link>
       <pubDate>Fri, 21 Mar 2025 22:07:10 -0400</pubDate>
-      <guid>https://oscardelahoya.net/posts/2025-03-21-hunter-gatherer-mode/</guid>
+      <guid>http://localhost:1313/posts/2025-03-21-hunter-gatherer-mode/</guid>
       <description>I&amp;rsquo;ve been enjoying photography this year — or, more accurately, professional anxiety spun the big wheel of interests in my head, and landed with full force on photography. Picture making has been a treat, to be sure, but I&amp;rsquo;m very much addicted to reading, comparing, learning, buying (gulp), and all of the activities around photography. The research of the craft, one can say.&#xA;Even so, I have been taking photos.</description>
     </item>
     <item>
       <title>Singles Hitter</title>
-      <link>https://oscardelahoya.net/posts/2025-01-01-singles-hitter/</link>
+      <link>http://localhost:1313/posts/2025-01-01-singles-hitter/</link>
       <pubDate>Wed, 01 Jan 2025 23:36:40 -0500</pubDate>
-      <guid>https://oscardelahoya.net/posts/2025-01-01-singles-hitter/</guid>
+      <guid>http://localhost:1313/posts/2025-01-01-singles-hitter/</guid>
       <description>Ichiro Suzuki recorded 4,367 hits over a 28-year career split between Japan and the United States. If you consider both hemispheres of his career together, Ichiro had more hits than anyone else in history (Pete Rose slapped, clawed, and hustled his way to 4,256 hits between 1963 and 1986).&#xA;Only 235 of these were home runs.&#xA;It&amp;rsquo;s an appropriate time to set intentions, not only because it&amp;rsquo;s the first day of 2025, but because in about a week, I&amp;rsquo;ll drive to Savannah to install a solo show—&amp;ldquo;You&amp;rsquo;re the Man Now Dog&amp;rdquo;, natch.</description>
     </item>
     <item>
       <title>I&#39;ll Win that Motley Crue Mirror if it fucking kills me</title>
-      <link>https://oscardelahoya.net/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</link>
+      <link>http://localhost:1313/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</link>
       <pubDate>Sat, 14 Dec 2024 22:43:25 -0500</pubDate>
-      <guid>https://oscardelahoya.net/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</guid>
+      <guid>http://localhost:1313/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</guid>
       <description>My Spotify Wrapped this week was entirely expected—the number one song I listened to, without question, was Carnival by Bikini Kill.&#xA;It&amp;rsquo;s probably foolish or shortsighted to say it&amp;rsquo;s my favorite song, period, because frankly having a favorite song is a fun thought experiment but ultimately an empty statement. I have plenty of favorite songs, tied to specific memories, individuals, psychic moments, deep emotions, even tiny flashes of clarity and inspiration.</description>
     </item>
   </channel>
