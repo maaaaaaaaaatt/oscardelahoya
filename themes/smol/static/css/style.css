@@ -15,7 +15,7 @@ body {
     max-width: 800px;
     margin: 40px auto;
     padding: 0 10px;
-    font: 14px/1.5 "IBM Plex Mono", monospace;
+    font-size: 14px/2 "IBM Plex Mono", monospace;
     color: var(--fontcolor);
     background: var(--bgcolor)
 }
@@ -35,7 +35,9 @@ a:active {
 h1,
 h2,
 h3 {
-    line-height: 1.2
+    line-height: 1.2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
 }
 
 p>code {

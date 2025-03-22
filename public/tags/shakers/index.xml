@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shakers on oscardelahoya.net</title>
-    <link>https://oscardelahoya.net/tags/shakers/</link>
+    <link>http://localhost:1313/tags/shakers/</link>
     <description>Recent content in Shakers on oscardelahoya.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Dec 2024 22:43:25 -0500</lastBuildDate>
-    <atom:link href="https://oscardelahoya.net/tags/shakers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/shakers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I&#39;ll Win that Motley Crue Mirror if it fucking kills me</title>
-      <link>https://oscardelahoya.net/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</link>
+      <link>http://localhost:1313/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</link>
       <pubDate>Sat, 14 Dec 2024 22:43:25 -0500</pubDate>
-      <guid>https://oscardelahoya.net/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</guid>
+      <guid>http://localhost:1313/posts/2024-12-14-ill-win-that-motley-crue-mirror-if-it-fucking-kills-me/</guid>
       <description>My Spotify Wrapped this week was entirely expected—the number one song I listened to, without question, was Carnival by Bikini Kill.&#xA;It&amp;rsquo;s probably foolish or shortsighted to say it&amp;rsquo;s my favorite song, period, because frankly having a favorite song is a fun thought experiment but ultimately an empty statement. I have plenty of favorite songs, tied to specific memories, individuals, psychic moments, deep emotions, even tiny flashes of clarity and inspiration.</description>
     </item>
   </channel>
