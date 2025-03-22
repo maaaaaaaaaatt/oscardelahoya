@@ -10,6 +10,7 @@ tags:
   - design
   - teaching
   - studio practice
+  - hitting singles
 ---
 
 Ichiro Suzuki recorded 4,367 hits over a 28-year career split between Japan and the United States. If you consider both hemispheres of his career together, Ichiro had more hits than anyone else in history (Pete Rose slapped, clawed, and hustled his way to 4,256 hits between 1963 and 1986).
